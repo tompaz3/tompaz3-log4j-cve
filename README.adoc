@@ -1,0 +1,10 @@
+= Log4j CVE
+Tomasz Paździurek <t.pazdziurek@gmail.com>;
+v1.0, 2021-12-11
+
+:experimental:
+
+A simple app trying to reproduce the Apache Log4j2 vulnerability detected and described by
+Randori - link:https://www.randori.com/blog/cve-2021-44228/[CVE-2021-44228].
+The issue has been also described in the GitHub Advisory Database - link:https://github.com/advisories/GHSA-jfh8-c2jp-5v3q[github - CVE-2021-44228]
+
